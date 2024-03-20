@@ -1,6 +1,7 @@
 Description
   - This script is designed to automate the backup process for all GitHub cloud repositories to a local storage. Once backed up locally, the data can be further secured by storing it in a safe location. This ensures that important project data hosted on GitHub is preserved and protected against potential data loss or service interruptions.
 
+  - Search all repos (private) -> Clone to specific linux folder -> Backup with your favorite software 
 
 Tested on
   - Debian 12
