@@ -14,5 +14,5 @@ cd $Backup_folder
 #Clone all repos from list
 for REPO in $REPO_LIST;
 do
-    git clone $REPO
+    git clone --depth=1 $REPO
 done
